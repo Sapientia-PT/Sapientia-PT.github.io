@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { HeaderModule } from './header/header.module';
+import { MatCardModule } from '@angular/material/card';
 
 import { FrontPageComponent } from './front-page/front-page.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
@@ -18,7 +19,8 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HeaderModule
+    HeaderModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]
