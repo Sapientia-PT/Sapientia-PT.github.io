@@ -28,6 +28,7 @@ Your content here...
 - **Site title and description**: Edit `_config.yml`
 - **Styling**: Modify `assets/css/style.css`
 - **Layouts**: Edit files in `_layouts/` directory
+- **Favicon**: Place your favicon files in the `assets/favicons/` directory (`favicon.ico`, `favicon-16x16.png`, `favicon-32x32.png`, `apple-touch-icon.png`)
 
 ## 📁 File Structure
 
