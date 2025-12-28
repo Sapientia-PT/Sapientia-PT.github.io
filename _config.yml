@@ -7,6 +7,11 @@ baseurl: ""
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
 # Collections
 collections:
   posts:
