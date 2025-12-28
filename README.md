@@ -1,4 +1,4 @@
-# Sapientia-PT Blog
+# João Miguel's Blog
 
 A minimal personal software engineering blog built with Jekyll and GitHub Pages.
 
